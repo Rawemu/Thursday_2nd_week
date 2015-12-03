@@ -1,0 +1,10 @@
+.tooltip{
+    color: green;
+    position: relative;
+}
+
+.tooltiptext{
+    color: white;
+    position: absolute;
+    background: black;
+}
