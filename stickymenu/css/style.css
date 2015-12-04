@@ -1,0 +1,21 @@
+article{
+    margin: 20px;
+}
+
+.menu{
+    width: 100%;
+    background: lightgrey;
+    height: 60px;
+    line-height: 60px;
+}
+
+.menu ul li{
+    display: inline-block;
+}
+
+.sticky{
+    position: fixed;
+    top: 0;
+    left: 0;
+    line-height: 30px;
+}
