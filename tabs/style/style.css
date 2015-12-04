@@ -1,0 +1,13 @@
+.tab ul {
+    list-style-type: none;
+}
+
+.tab li{
+    margin: 0 10px;
+    border: solid black 2px;
+    display: inline-block;
+}
+
+.tab p{
+    display: none;
+}
