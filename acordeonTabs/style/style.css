@@ -1,0 +1,7 @@
+.acordeon ul{
+    list-style-type: none;
+}
+
+.acordeon p{
+    display: none;
+}
